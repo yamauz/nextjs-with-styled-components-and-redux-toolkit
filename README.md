@@ -1,1 +1,1 @@
-This is a test for pastify landing page.
+A boilerplate next.js with styled-components and redux-toolkit
